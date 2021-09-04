@@ -1,10 +1,13 @@
-<template lang="pug">
-  v-app
-    v-main: nuxt
+<template>
+  <h1>Auth</h1>
 </template>
 
 <script>
 export default {
-  
+
 }
 </script>
+
+<style>
+
+</style>
